@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Switch
+        android:id="@+id/switch1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Switch"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="118dp" />
+
+    <CheckBox
+        android:id="@+id/checkBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CheckBox"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="254dp" />
+
+    <EditText
+        android:id="@+id/editTextText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="text"
+        android:text="Name"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="171dp" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="44dp" />
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="180dp"
+        tools:layout_editor_absoluteY="342dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="390dp"
+        android:layout_height="230dp"
+        android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin porttitor risus leo, eu porttitor odio pellentesque nec. Praesent mollis ac metus ut sodales. Cras quis lorem tristique nulla euismod consectetur. Maecenas condimentum vel urna eget volutpat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis convallis sagittis ante, at euismod dui consectetur et. Vivamus aliquam nec justo sit amet fermentum. Suspendisse augue libero, faucibus sit amet dui et, semper finibus sapien. Aliquam efficitur consequat erat, nec euismod lorem scelerisque iaculis.&#xA;&#xA;Phasellus sit amet pharetra tortor. Pellentesque ultrices vel ante eu posuere. Quisque eros nisi, porttitor sed dui ac, rutrum lacinia est. Ut luctus lectus nec tincidunt vulputate. Aenean consectetur, ipsum nec euismod convallis, neque orci molestie ligula, ut rutrum velit odio eu velit. Sed tristique vestibulum vulputate. Quisque sit amet ultricies est.&#xA;&#xA;Etiam vestibulum neque quis massa rutrum, id maximus est aliquam. Maecenas mattis in nulla ut consequat. Sed in ullamcorper neque, luctus sagittis dui. Nunc vel purus in nunc porttitor ultrices a ac tellus. Suspendisse potenti. Nam egestas lacus nunc. Nullam faucibus lorem nisl, vitae cursus sapien scelerisque et. Fusce egestas aliquet felis, sed iaculis diam tempus ac. Nullam ornare magna ut turpis gravida, a faucibus urna bibendum. Etiam fermentum vulputate nisi, in dictum nisl pellentesque tincidunt.&#xA;&#xA;Sed id nunc posuere, pretium justo eu, pharetra urna. Pellentesque consequat dictum maximus. Duis ullamcorper eros tempor, auctor nisi at, feugiat magna. Aenean ac ultricies nisl, quis tincidunt diam. Nam ac tortor metus. Suspendisse eleifend, sem vitae rutrum faucibus, odio mauris venenatis nunc, in placerat diam massa sit amet orci. Cras semper pellentesque mi, ut laoreet orci imperdiet a. Vivamus rutrum gravida orci sed ultricies. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent justo dolor, pellentesque sed ultricies id, ultricies non lectus. Donec bibendum libero ut metus finibus rhoncus. Aenean gravida, ipsum sodales pharetra varius, ipsum mauris vestibulum diam, viverra pulvinar arcu nulla sit amet nulla. Suspendisse nisi odio, feugiat eget tortor ac, faucibus lobortis nibh. Quisque lacinia tortor et sapien mattis ultrices. Aliquam id tortor metus. Morbi pulvinar placerat leo, id dapibus arcu.&#xA;&#xA;Quisque faucibus magna sit amet imperdiet dapibus. Ut posuere aliquam erat, sed interdum nulla tempor id. Aliquam facilisis ligula porttitor lacinia convallis. Etiam varius leo quis semper auctor. Maecenas dictum aliquam libero, quis luctus sapien tempor eget. Aliquam congue interdum sapien. In tristique sapien sed ex suscipit, ut lobortis arcu fermentum. Cras at varius dui. Cras metus sem, vestibulum sit amet lorem nec, malesuada condimentum est. Cras scelerisque justo vehicula tempus aliquam. Curabitur sed mi in justo auctor pulvinar. In hac habitasse platea dictumst. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin semper sapien pretium orci tempus, in rutrum tellus venenatis. In eleifend diam consectetur sodales ornare."
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="460dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

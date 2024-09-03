@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AulaTemas" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <!--Config cores primarias-->
+        <item name="colorPrimary">@color/primaria</item>
+        <item name="colorPrimaryVariant">@color/primariaVariante</item>
+        <!--Config cores secundarias-->
+        <item name="colorSecondary">@color/secundaria</item>
+        <item name="colorSecondaryVariant">@color/secundariaVariante</item>
+       <!--<item name="android:windowBackground">@color/corDeFundo</item>-->
+
+
+    </style>
+
+    <style name="Theme.AulaTemas" parent="Base.Theme.AulaTemas" />
+</resources>
