@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">170924-AulaInternacionalizacao</string>
+    <string name="primeiroTxt">Hi</string>
+    <string name="segundoTxt">Welcome</string>
+    <string name="corTxt">Red</string>
+    <string name="btnLogar">Login</string>
+
+</resources>
