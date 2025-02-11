@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7a27ab95-890e-422c-b50f-1a2490a687c2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Aula07082024/Aula2Ex1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula07082024/Aula2Ex1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula07082024/Aula2Ex1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula07082024/Aula2Ex1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula07082024/Aula2Ex1/Aula2Ex1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula07082024/Aula2Ex1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula07082024/Aula2Ex1/src/Produto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula130824-3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula130824-3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula130824-3/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula130824-3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula130824-3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula130824-3/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula130824-3/src/main/java/br/com/fiap/beans/Analista.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula130824-3/src/main/java/br/com/fiap/beans/Engenheiro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula130824-3/src/main/java/br/com/fiap/beans/Estagiario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula130824-3/src/main/java/br/com/fiap/beans/Funcionario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula130824-3/src/main/java/br/com/fiap/beans/Gerente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula130824-3/src/main/java/br/com/fiap/main/Heranca.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula130824-3/src/main/java/br/com/fiap/main/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula160924/Aula0909/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula160924/Aula0909/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula160924/Aula0909/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula160924/Aula0909/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula160924/Aula0909/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula160924/Aula0909/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula160924/Aula0909/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula160924/Aula0909/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula160924/Aula0909/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula160924/Aula0909/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula160924/Aula0909/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula160924/Aula0909/src/main/java/br/com/fiap/dao/ClienteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula160924/Aula0909/src/main/java/br/com/fiap/dao/ClienteDaoIMPL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula160924/Aula0909/src/main/java/br/com/fiap/entity/Cliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula160924/Aula0909/src/main/java/br/com/fiap/entity/Empresa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula160924/Aula0909/src/main/java/br/com/fiap/entity/Genero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula160924/Aula0909/src/main/java/br/com/fiap/entity/Porte.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula160924/Aula0909/src/main/java/br/com/fiap/exception/CommitException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula160924/Aula0909/src/main/java/br/com/fiap/exception/IdNaoEncotradoException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula160924/Aula0909/src/main/java/br/com/fiap/view/Teste.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula160924/Aula0909/src/main/java/br/com/fiap/view/TesteAtualizacao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula160924/Aula0909/src/main/java/br/com/fiap/view/TesteCadastro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula160924/Aula0909/src/main/java/br/com/fiap/view/TesteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula160924/Aula0909/src/main/java/br/com/fiap/view/TestePesquisa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula160924/Aula0909/src/main/java/br/com/fiap/view/TesteRemover.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula160924/Aula0909/src/main/resources/META.INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula180924/Aula0909/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula180924/Aula0909/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula180924/Aula0909/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula180924/Aula0909/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula180924/Aula0909/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula180924/Aula0909/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula180924/Aula0909/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula180924/Aula0909/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula180924/Aula0909/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula180924/Aula0909/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula180924/Aula0909/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula180924/Aula0909/src/main/java/br/com/fiap/dao/ClienteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula180924/Aula0909/src/main/java/br/com/fiap/dao/ClienteDaoIMPL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula180924/Aula0909/src/main/java/br/com/fiap/entity/Cliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula180924/Aula0909/src/main/java/br/com/fiap/entity/Empresa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula180924/Aula0909/src/main/java/br/com/fiap/entity/Genero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula180924/Aula0909/src/main/java/br/com/fiap/entity/Porte.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula180924/Aula0909/src/main/java/br/com/fiap/exception/CommitException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula180924/Aula0909/src/main/java/br/com/fiap/exception/IdNaoEncotradoException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula180924/Aula0909/src/main/java/br/com/fiap/view/Teste.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula180924/Aula0909/src/main/java/br/com/fiap/view/TesteAtualizacao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula180924/Aula0909/src/main/java/br/com/fiap/view/TesteCadastro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula180924/Aula0909/src/main/java/br/com/fiap/view/TesteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula180924/Aula0909/src/main/java/br/com/fiap/view/TestePesquisa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula180924/Aula0909/src/main/java/br/com/fiap/view/TesteRemover.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula180924/Aula0909/src/main/resources/META.INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula190824-Ex04.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula230924.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula230924/Aula230924-DesignPatterns/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula230924/Aula230924-DesignPatterns/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula230924/Aula230924-DesignPatterns/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula230924/Aula230924-DesignPatterns/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula230924/Aula230924-DesignPatterns/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula230924/Aula230924-DesignPatterns/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula230924/Aula230924-DesignPatterns/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula230924/Aula230924-DesignPatterns/src/main/java/br/com/fiap/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula230924/Aula230924-DesignPatterns/src/main/java/br/com/fiap/dao/GenericDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula230924/Aula230924-DesignPatterns/src/main/java/br/com/fiap/dao/GenericDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula230924/Aula230924-DesignPatterns/src/main/java/br/com/fiap/dao/InvestimentoDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula230924/Aula230924-DesignPatterns/src/main/java/br/com/fiap/dao/InvestimentoDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula230924/Aula230924-DesignPatterns/src/main/java/br/com/fiap/entity/Investimento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula230924/Aula230924-DesignPatterns/src/main/java/br/com/fiap/entity/TipoInvestimento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula230924/Aula230924-DesignPatterns/src/main/java/br/com/fiap/exception/CommitException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula230924/Aula230924-DesignPatterns/src/main/java/br/com/fiap/exception/IdNaoencontradoException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula230924/Aula230924-DesignPatterns/src/main/java/br/com/fiap/singleton/EntityManagerFactorySingleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula230924/Aula230924-DesignPatterns/src/main/java/br/com/fiap/view/View.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula230924/Aula230924-DesignPatterns/src/main/resources/META-INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula250924/Aula230924-DesignPatterns/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula250924/Aula230924-DesignPatterns/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula250924/Aula230924-DesignPatterns/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula250924/Aula230924-DesignPatterns/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula250924/Aula230924-DesignPatterns/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula250924/Aula230924-DesignPatterns/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula250924/Aula230924-DesignPatterns/src/main/java/br/com/fiap/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula250924/Aula230924-DesignPatterns/src/main/java/br/com/fiap/dao/GenericDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula250924/Aula230924-DesignPatterns/src/main/java/br/com/fiap/dao/GenericDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula250924/Aula230924-DesignPatterns/src/main/java/br/com/fiap/dao/InvestimentoDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula250924/Aula230924-DesignPatterns/src/main/java/br/com/fiap/dao/InvestimentoDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula250924/Aula230924-DesignPatterns/src/main/java/br/com/fiap/entity/Investimento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula250924/Aula230924-DesignPatterns/src/main/java/br/com/fiap/entity/TipoInvestimento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula250924/Aula230924-DesignPatterns/src/main/java/br/com/fiap/exception/CommitException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula250924/Aula230924-DesignPatterns/src/main/java/br/com/fiap/exception/IdNaoencontradoException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula250924/Aula230924-DesignPatterns/src/main/java/br/com/fiap/singleton/EntityManagerFactorySingleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula250924/Aula230924-DesignPatterns/src/main/java/br/com/fiap/view/View.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula250924/Aula230924-DesignPatterns/src/main/resources/META-INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula260824-7/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula260824-7/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula260824-7/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula260824-7/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula260824-7/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula260824-7/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula260824-7/src/main/java/br/com/fiap/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula260824-7/src/main/java/br/com/fiap/anotation/Coluna.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula260824-7/src/main/java/br/com/fiap/anotation/Tabela.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula260824-7/src/main/java/br/com/fiap/dao/JpaDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula260824-7/src/main/java/br/com/fiap/model/Aluno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula260824-7/src/main/java/br/com/fiap/model/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula260824-7/src/main/java/br/com/fiap/model/Professor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula260824-7/src/main/java/br/com/fiap/view/Exercicio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula260824-7/src/main/java/br/com/fiap/view/Teste.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula260824-7/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula260824-7/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula260824-7/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula260824-7/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula260824-7/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula260824-7/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula260824-7/src/main/java/br/com/fiap/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula260824-7/src/main/java/br/com/fiap/anotation/Coluna.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula260824-7/src/main/java/br/com/fiap/anotation/Tabela.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula260824-7/src/main/java/br/com/fiap/dao/JpaDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula260824-7/src/main/java/br/com/fiap/model/Aluno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula260824-7/src/main/java/br/com/fiap/model/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula260824-7/src/main/java/br/com/fiap/model/Professor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula260824-7/src/main/java/br/com/fiap/view/Exercicio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula260824-7/src/main/java/br/com/fiap/view/Teste.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula280824-8E/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula280824-8E/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula280824-8E/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula280824-8E/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula280824-8E/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula280824-8E/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula280824-8E/src/main/java/br/com/fiap/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula280824-8E/src/main/java/br/com/fiap/beans/Conta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula280824-8E/src/main/java/br/com/fiap/beans/ContaCorrente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula280824-8E/src/main/java/br/com/fiap/beans/ContaInvestimento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula280824-8E/src/main/java/br/com/fiap/beans/ContaPoupanca.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula280824-8E/src/main/java/br/com/fiap/beans/TipoConta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula280824-8E/src/main/java/br/com/fiap/exception/SaldoInsufienteException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula280824-8E/src/main/java/br/com/fiap/view/View.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula3-130824E/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula3-130824E/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula3-130824E/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula3-130824E/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula3-130824E/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula3-130824E/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula3-130824E/src/main/java/br/com/fiap/beans/Caminhao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula3-130824E/src/main/java/br/com/fiap/beans/Carro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula3-130824E/src/main/java/br/com/fiap/beans/Moto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula3-130824E/src/main/java/br/com/fiap/beans/Veiculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula3-130824E/src/main/java/br/com/fiap/main/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../teste/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../teste/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../teste/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../teste/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../teste/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../teste/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../teste/src/main/resources/META-INF/maven/archetype.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../teste/src/main/resources/archetype-resources/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../teste/src/main/resources/archetype-resources/src/main/java/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../teste/src/main/resources/archetype-resources/src/test/java/AppTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2sta8rjPfbX1tAQpngif3PM0ccq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "java-adv",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Samsung/Downloads/FIAP/Java Advanced/15022025/spring-mvc",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.300" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.300" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a27ab95-890e-422c-b50f-1a2490a687c2" name="Changes" comment="" />
+      <created>1739277175897</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739277175897</updated>
+      <workItem from="1739277178483" duration="1721000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
