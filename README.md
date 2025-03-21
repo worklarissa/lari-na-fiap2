@@ -7,6 +7,8 @@ Atualmente estou no 3º Semestre do curso.
 - Java
 - .NET
 - Kotlin
+- React Native
+- C++
   
 
 ## Organização do Repositório
