@@ -9,6 +9,7 @@ Atualmente estou no 3º Semestre do curso.
 - Kotlin
 - React Native
 - C++
+- SQL
   
 
 ## Organização do Repositório
@@ -19,5 +20,9 @@ Cada disciplina terá uma branch, onde serão armazenadas as respectivas ativida
 - Fábio do Espírito Santo Machado
 - Marcel Stefan Wagner
 - Fernando Pinéo de Abreu
+- Leonardo Gasparini Romão
+- Lucas da Silva Ferreira
+- Luiz Gustavo dos Santos Real
+- Vergílio Valério dos Santos
 
 ### E aos meus colegas de turma, que me acompanharam e ajudaram durante essa parte da minha jornada profissional e que sempre poderão contar comigo.
